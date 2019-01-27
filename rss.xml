@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<item>
+		<title>Elo-boost</title>
+		<description>
+			Procitajte nesto o nama.
+		</description>
+		<link>index.html</link>
+	</item>
+	<item>
+		<title>Cene</title>
+		<description>
+			Najpristupacnije cene.
+		</description>
+		<link>cene.html</link>
+	</item>
+</channel>
+</rss>
